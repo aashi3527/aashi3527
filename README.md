@@ -6,8 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/aashika-kacker"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:aashikakacker@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/aashika-kacker"><img src="https://img.shields.io/badge/LinkedIn-aashika--kacker-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
@@ -21,7 +20,7 @@ I enjoy turning raw data into meaningful insights and building machine learning 
 - 🎓 B.Tech CSE (Data Science) — PSIT Kanpur (2023–2027)
 - 🏢 Currently: ML Intern @ Navdita Infotech
 - 📍 Lucknow, India
-- 📫 aashikakacker@gmail.com
+- 📫 <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="ceafafbda6a7a5afa5afada5abbc8ea9a3afa7a2e0ada1a3">[email&#160;protected]</a>
 
 ---
 
@@ -76,15 +75,6 @@ Building a real-time multi-object detection and tracking pipeline as part of my 
 |---|---|---|
 | Oracle Cloud Infrastructure Data Science Professional | Oracle | 2024 |
 | AWS Cloud Practitioner Essentials | AWS SkillBuild | 2024 |
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aashi3527&show_icons=true&theme=default&hide_border=true&title_color=1A1A2E&icon_color=1A1A2E&text_color=555555" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashi3527&layout=compact&theme=default&hide_border=true&title_color=1A1A2E&text_color=555555" height="150"/>
-</p>
 
 ---
 
