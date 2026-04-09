@@ -65,7 +65,7 @@ Trained and compared Linear Regression, Ridge, and Random Forest models to predi
 
 Building a real-time multi-object detection and tracking pipeline as part of my ML internship at Navdita Infotech. Focused on detection accuracy and pipeline efficiency across video frames.
 
-[View Repository →](https://github.com/aashi3527/object-detection-tracking)
+[View Repository →](https://github.com/aashi3527/object-detection-tracking-model)
 
 ---
 
