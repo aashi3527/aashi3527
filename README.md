@@ -13,15 +13,15 @@ Building AI systems end-to-end — from data pipelines and model training to dep
 
 ### 🚀 Projects
 
-**[Watcher AI — Flood/Landslide Risk Prediction](#)**
-CNN-based model predicting flood and landslide risk from geospatial and sensor data, integrated into a Streamlit dashboard for real-time visualization and alerts.
+**Watcher AI — Flood/Landslide Risk Prediction** *(Group Project)*
+CNN-based model predicting flood and landslide risk from geospatial and sensor data, integrated into a Streamlit dashboard for real-time visualization and alerts. Repository maintained by a teammate.
 `Python` `PyTorch` `Scikit-learn` `Streamlit`
 
-**[Real-Time Object Detection & Tracking System](#)**
+**[Real-Time Object Detection & Tracking System](https://github.com/aashi3527/object-detection-and-tracking-system)**
 End-to-end pipeline combining YOLO detection with DeepSORT tracking for multi-object scenarios, with a React frontend for live visualization.
 `Python` `OpenCV` `YOLO` `DeepSORT` `React`
 
-**[Student Performance Prediction](#)**
+**[Student Performance Prediction](https://github.com/aashi3527/student-performance-prediction)**
 End-to-end ML pipeline (Random Forest, Decision Tree) achieving ~0.79 R² on student performance data, with data cleaning, feature engineering, and visualization across 1,000+ records.
 `Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib`
 
