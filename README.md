@@ -1,83 +1,41 @@
-<h1 align="center">Hi, I'm Aashika Kacker 👋</h1>
+### Hi, I'm Aashika 👋
 
-<p align="center">
-  <b>Computer Science (Data Science) Student · ML Intern · Aspiring Software Developer</b><br/>
-  <i>Pranveer Singh Institute of Technology, Kanpur · CGPA: 7.7</i>
-</p>
+Computer Science (Data Science) undergraduate at Pranveer Singh Institute of Technology, Kanpur (AKTU) | Class of 2027
 
-<p align="center">
-  <a href="https://linkedin.com/in/aashika-kacker"><img src="https://img.shields.io/badge/LinkedIn-aashika--kacker-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-</p>
+Building AI systems end-to-end — from data pipelines and model training to deployment-ready interfaces. Interested in computer vision, NLP, and full-stack ML products.
 
----
-
-## 👩‍💻 About Me
-
-I'm a third-year B.Tech student specialising in Data Science, currently interning as an **ML Engineer at Navdita Infotech** where I'm building an end-to-end object detection and tracking system.
-
-I enjoy turning raw data into meaningful insights and building machine learning models that solve real problems. I'm actively looking for **software developer roles with a data science focus**.
-
-- 🎓 B.Tech CSE (Data Science) — PSIT Kanpur (2023–2027)
-- 🏢 Currently: ML Intern @ Navdita Infotech
-- 📍 Lucknow, India
-- 📫 <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="ceafafbda6a7a5afa5afada5abbc8ea9a3afa7a2e0ada1a3">[email&#160;protected]</a>
+- 🔭 Currently interning as a **Machine Learning Intern (Educational) at FlyRank AI**, applying ML to content ranking and search-optimization workflows
+- 🌱 Currently building **Watcher AI**, a CNN-based flood/landslide risk prediction system with a Streamlit dashboard
+- 💻 Languages: C++, Python, SQL | Frameworks: React, Node.js, Express, PyTorch, Scikit-learn, OpenCV
+- 📫 Reach me at aashikakacker@gmail.com | [LinkedIn](https://linkedin.com/in/aashika-kacker)
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 Projects
 
-**Languages**
+**[Watcher AI — Flood/Landslide Risk Prediction](#)**
+CNN-based model predicting flood and landslide risk from geospatial and sensor data, integrated into a Streamlit dashboard for real-time visualization and alerts.
+`Python` `PyTorch` `Scikit-learn` `Streamlit`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+**[Real-Time Object Detection & Tracking System](#)**
+End-to-end pipeline combining YOLO detection with DeepSORT tracking for multi-object scenarios, with a React frontend for live visualization.
+`Python` `OpenCV` `YOLO` `DeepSORT` `React`
 
-**Machine Learning & Data Science**
+**[Student Performance Prediction](#)**
+End-to-end ML pipeline (Random Forest, Decision Tree) achieving ~0.79 R² on student performance data, with data cleaning, feature engineering, and visualization across 1,000+ records.
+`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib`
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-**Tools & Platforms**
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-## 🚀 Projects
+### 🏆 Certifications & Achievements
 
-### 📊 Student Performance Prediction
-> Machine Learning · Python · Scikit-Learn · Pandas · Matplotlib
-
-Trained and compared Linear Regression, Ridge, and Random Forest models to predict student exam scores from 1,000+ records. Best model achieved **~0.82 R²** with 5-fold cross-validation.
-
-[View Repository →](https://github.com/aashi3527/student-performance-prediction)
-
----
-
-### 🎯 Object Detection & Tracking System *(In Progress)*
-> Computer Vision · Python · OpenCV · Deep Learning
-
-Building a real-time multi-object detection and tracking pipeline as part of my ML internship at Navdita Infotech. Focused on detection accuracy and pipeline efficiency across video frames.
-
-[View Repository →](https://github.com/aashi3527/object-detection-and-tracking-system)
-
----
-
-## 🏅 Certifications
-
-| Certification | Issuer | Year |
-|---|---|---|
-| Oracle Cloud Infrastructure Data Science Professional | Oracle | 2024 |
-| AWS Cloud Practitioner Essentials | AWS SkillBuild | 2024 |
-
----
-
-<p align="center">
-  <i>Open to internships and entry-level software developer roles. Feel free to reach out!</i>
-</p>
+- Oracle Cloud Infrastructure (OCI) Data Science Professional — Oracle (2025)
+- Machine Learning Specialization — DeepLearning.ai / Coursera (2026)
+- AWS Cloud Practitioner Essentials & AI/ML Fundamentals — AWS Skill Build (2025)
+- AI Fluency — Anthropic (In Progress)
+- Selected for McKinsey Forward Program 2026
+- Selected for Udacity AI and ML Scholar Program 2026
+- Selected for Infosys Springboard Internship Program 2026
+- 50 Days Badge on LeetCode
